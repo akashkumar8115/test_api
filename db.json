@@ -1,15 +1,22 @@
-{
-    "books": [
-        {
-            "id": 1,
-            "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
-            "book_name": "Harry Potter and the Philosopher's Stone",
-            "author": "J. K. Rowling",
-            "genre": "fiction",
-            "edition": "2021",
-            "publisher": "Bloomsbury",
-            "cost": 1299,
-            "borrowed": false
-        }
-    ]
-}
+[
+    {
+        "id": 1,
+        "name": "Suyash Sachdeva",
+        "image_url": "",
+        "roll_no.": "20DEC001",
+        "email": "20dec001@nith.ac.in",
+        "blood_gp": "B+",
+        "addess": "Shimla (HP)",
+        "result": ""
+    },
+    {
+        "id": 2,
+        "name": "Prashant",
+        "image_url": "",
+        "roll_no.": "20DEC002",
+        "email": "20dec002@nith.ac.in",
+        "blood_gp": "A+",
+        "addess": "Shimla (HP)",
+        "result": ""
+    }
+]
